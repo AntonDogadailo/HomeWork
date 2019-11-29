@@ -7,3 +7,17 @@ table td {
 td:hover {
     background:#ABA5ED;
 }
+.addbtn {
+    color: #CADD1E;
+}
+
+.eventText {
+    height: 50px;
+    width: 300px;
+    color: black;
+}
+
+.eventList {
+    width: 20%;
+    background-color: cornflowerblue;
+}
